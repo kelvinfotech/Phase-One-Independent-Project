@@ -1,0 +1,24 @@
+/* CSS styles for the jumbotron class */
+.jumbotron {
+    max-width: 375px; /* Set maximum width to 375px */
+    padding: 15px; /* Add padding of 15px */
+    margin: 0 auto; /* Center the jumbotron horizontally */
+    color: #1a1a1a; /* Set text color to dark gray */
+    margin-top: 40px; /* Add top margin of 40px */
+}
+
+/* CSS styles for h2 elements */
+h2 {
+    text-align: center; /* Align text to the center */
+}
+
+/* CSS styles for the new_user id */
+#new_user {
+    margin-top: 10px; /* Add top margin of 10px */
+    text-align: center; /* Align text to the center */
+}
+
+/* CSS styles for p elements */
+p {
+    text-decoration-color: red; /* Set the color of text decoration to red */
+}

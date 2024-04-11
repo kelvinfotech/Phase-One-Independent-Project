@@ -1,0 +1,36 @@
+/* CSS styles for the body element */
+body {
+    background-color: white; /* Set background color to white */
+}
+
+/* CSS styles for h2 elements */
+h2 {
+    text-align: center; /* Align text to the center */
+    color: #ffbb2b; /* Set text color to orange */
+}
+
+/* CSS styles for the click_here div */
+#click_here {
+    margin-top: 10px; /* Add top margin of 10px */
+    text-align: center; /* Align text to the center */
+}
+
+/* CSS styles for the container class */
+.container {
+    width: 60%; /* Set container width to 60% of the viewport */
+    margin-top: 10px; /* Add top margin of 10px */
+}
+
+/* CSS styles for label elements */
+label {
+    color: #ffbb2b; /* Set text color to orange */
+    font-size: 13px; /* Set font size to 13px */
+    font-weight: 100; /* Set font weight to 100 */
+}
+
+/* CSS styles for button elements with the button class */
+.button {
+    width: 100px; /* Set button width to 100px */
+    float: right; /* Float button to the right */
+    font-size: 13px; /* Set font size to 13px */
+}
