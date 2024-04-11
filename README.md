@@ -26,7 +26,7 @@ STEP 7 - After uploading/creating the database, open a new tab and write/paste t
 https://github.com/kelvinfotech/JavaScript-Week-One-Code-Challenges
 
 ### Technologies Used:
-HTML, CSS, JS, PHP, MYSQL, AJAX, Bootstrap
+HTML, CSS, JS, PHP, MYSQL, AJAX, Bootstrap, Hack
 
 ### Support & Contact:
 https://github.com/kelvinfotech or kelvinfotech@gmail.com
